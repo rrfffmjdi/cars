@@ -1,0 +1,29 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+p{
+    margin-right: 100px;
+    color: white;
+}
+#oppp{
+   border:solid;
+  border-color:black;
+   font-size: 20px;
+    
+}
+#ill{
+    margin-top: 50px;
+}
+body{
+    text-decoration-color: azure;
+    background-color: black;
+}
+h2{
+    color: white;
+}
+.op{
+    text-align: center;
+}
+
+
